@@ -1,2 +1,2 @@
-# sicos-secuenciales
-Soluciones a los ejercicios secuenciales
+# sicos-condicionales
+Soluciones a los ejercicios condicionales
